@@ -1,0 +1,25 @@
+
+Final Grade: 100/100    
+
+Scoring function implementation: 50/50 Points     
+            
+    
+10/10 points:     You correctly implemented Okapi TF
+10/10 points: You correctly implemented TF-IDF
+10/10 points: You correctly implemented Okapi BM25 
+10/10 points: You correctly implemented a language model with Laplace smoothing
+10/10: You correctly implemented a language model with Jelinek-Mercer smoothing
+
+Report: 50/50 Points (+10)
+
+    10/10 points:
+        You wrote your expectations down in advance
+    10/10 points:
+        You included the appropriate data tables
+    20/20 points:
+        You described your results adequately (4 points for each scoring function)
+    10/10 points:
+        Your analysis shows a good understanding of the scoring functions
+    +0/10 points:
+        You provided better-performing queries (+1 for each query)
+Comment: "

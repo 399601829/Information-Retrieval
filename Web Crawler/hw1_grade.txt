@@ -1,0 +1,16 @@
+Final Grade: 100/100
+
+50/50: Problem 1
+  10/10: Diagram contains all necessary components, and relationships make sense.
+  10/10: Algorithm flowchart/pseudocode is clear, and accomplishes the task correctly.
+  20/20: Writeup explains the approach well and addresses all concerns stated in the assignment.
+  10/10: Presentation and writing quality. Diagrams and pseudocode are clear, and written explanation takes no more than one page.
+
+  Comments:
+
+50/50: Problem 2
+  10/10: You respect robots.txt, have a 5 second delay between fetching pages, and don't follow URLs to outside domains
+  20/20: You crawl the correct pages in some reasonable order and produce a working link graph.
+  20/20: Your report is thoughtful and well-organized.
+
+  Comments:
